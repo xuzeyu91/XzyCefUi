@@ -1,0 +1,8 @@
+C:\xm\git\CefDemo\XzyCefUi\NetDimension.NanUI\bin\Debug\Xzy.UI.Core.dll
+C:\xm\git\CefDemo\XzyCefUi\NetDimension.NanUI\bin\Debug\Xzy.UI.Core.pdb
+C:\xm\git\CefDemo\XzyCefUi\NetDimension.NanUI\obj\Debug\Xzy.Ui.Core.csprojResolveAssemblyReference.cache
+C:\xm\git\CefDemo\XzyCefUi\NetDimension.NanUI\obj\Debug\Xzy.UI.Core.Properties.Resources.resources
+C:\xm\git\CefDemo\XzyCefUi\NetDimension.NanUI\obj\Debug\Xzy.Ui.Core.csproj.GenerateResource.cache
+C:\xm\git\CefDemo\XzyCefUi\NetDimension.NanUI\obj\Debug\Xzy.Ui.Core.csproj.CoreCompileInputs.cache
+C:\xm\git\CefDemo\XzyCefUi\NetDimension.NanUI\obj\Debug\Xzy.UI.Core.dll
+C:\xm\git\CefDemo\XzyCefUi\NetDimension.NanUI\obj\Debug\Xzy.UI.Core.pdb

@@ -1,0 +1,26 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <script type="text/javascript">
+
+        function testExecJs(a) {
+            alert(a);
+        }
+
+        function test() {
+            debugger;
+            var name = document.getElementById("name").value;
+            var pwd = document.getElementById("pwd").value;
+            V8Demo.TestLogin(name, pwd);
+        }
+    </script>
+</head>
+<body>
+    <input id="name" type="text" />
+    <input id="pwd" type="text" />
+    <input id="Button1" type="button" value="button" onclick="test();"/>
+</body>
+</html>

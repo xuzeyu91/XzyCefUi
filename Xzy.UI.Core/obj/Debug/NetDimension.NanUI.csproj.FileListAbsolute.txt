@@ -1,0 +1,7 @@
+C:\xm\NanUI\NanUI-master\NanUI-master\NetDimension.NanUI\bin\Debug\NetDimension.NanUI.dll
+C:\xm\NanUI\NanUI-master\NanUI-master\NetDimension.NanUI\bin\Debug\NetDimension.NanUI.pdb
+C:\xm\NanUI\NanUI-master\NanUI-master\NetDimension.NanUI\obj\Debug\NetDimension.NanUI.Properties.Resources.resources
+C:\xm\NanUI\NanUI-master\NanUI-master\NetDimension.NanUI\obj\Debug\NetDimension.NanUI.csproj.GenerateResource.cache
+C:\xm\NanUI\NanUI-master\NanUI-master\NetDimension.NanUI\obj\Debug\NetDimension.NanUI.csproj.CoreCompileInputs.cache
+C:\xm\NanUI\NanUI-master\NanUI-master\NetDimension.NanUI\obj\Debug\NetDimension.NanUI.dll
+C:\xm\NanUI\NanUI-master\NanUI-master\NetDimension.NanUI\obj\Debug\NetDimension.NanUI.pdb
